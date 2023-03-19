@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\obj\Debug\calculatorconsoleApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\obj\Debug\calculatorconsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\obj\Debug\calculatorconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\bin\Debug\calculatorconsoleApp.exe.config
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\bin\Debug\calculatorconsoleApp.exe
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\bin\Debug\calculatorconsoleApp.pdb
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\obj\Debug\calculatorconsoleApp.exe
+C:\Users\ASUS\source\repos\calculatorconsoleApp\calculatorconsoleApp\obj\Debug\calculatorconsoleApp.pdb
